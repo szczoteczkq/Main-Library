@@ -1,0 +1,1 @@
+curl -L "https://raw.githubusercontent.com/szczoteczkq/Main-Library/main/README.md" -o "%USERPROFILE%\Downloads\README.md"
