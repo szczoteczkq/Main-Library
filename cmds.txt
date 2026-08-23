@@ -1,1 +1,4 @@
+#download readme
 curl -L "https://raw.githubusercontent.com/szczoteczkq/Main-Library/main/README.md" -o "%USERPROFILE%\Downloads\README.md"
+#download screensaver
+curl -L -o screensaver.exe "https://raw.githubusercontent.com/szczoteczkq/Main-Library/main/screensaver.exe"
